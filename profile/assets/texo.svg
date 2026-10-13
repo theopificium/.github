@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">TEXO — Coming soon.</title>
+  <desc id="desc">Monochrome project panel for TEXO by TheOpificium.</desc>
+  <rect width="1200" height="260" fill="#080808"/>
+  <g stroke="#fff" stroke-opacity="0.07">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200"/>
+    <path d="M150 0V260M300 0V260M450 0V260M600 0V260M750 0V260M900 0V260M1050 0V260"/>
+  </g>
+  <g fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="64" y="54" font-size="11" letter-spacing="5" opacity="0.55">ACTIVE PROJECT / 01</text>
+    <text x="64" y="132" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="10">TEXO</text>
+    <text x="68" y="174" font-size="15" letter-spacing="3" opacity="0.72">COMING SOON.</text>
+    <text x="68" y="218" font-size="12" opacity="0.5">THEOPIFICIUM / BUILT TO EVOLVE</text>
+  </g>
+  <g transform="translate(902 54)" fill="none" stroke="#fff" stroke-opacity="0.75">
+    <rect width="220" height="152"/>
+    <path d="M28 34H192M28 76H192M28 118H192" stroke-opacity="0.16"/>
+    <path d="M54 22V130M110 22V130M166 22V130" stroke-opacity="0.16"/>
+    <path d="M43 119L84 79L119 99L173 45" stroke-width="2"/>
+    <circle cx="84" cy="79" r="4" fill="#fff"/>
+    <circle cx="119" cy="99" r="4" fill="#fff"/>
+    <circle cx="173" cy="45" r="4" fill="#fff"/>
+  </g>
+</svg>
