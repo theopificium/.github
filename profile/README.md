@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/hero.svg" alt="TheOpificium — Built to Evolve." width="100%" />
+  <img src="./assets/hero-approved.jpg" alt="TheOpificium — Built to Evolve." width="100%" />
 </h1>
 
 <p align="center">
