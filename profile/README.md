@@ -1,14 +1,20 @@
-<div align="center">
+<h1 align="center">
+  <img src="./assets/hero.svg" alt="TheOpificium — Built to Evolve." width="100%" />
+</h1>
 
-# TheOpificium
+<p align="center">
+  <a href="#active-projects"><strong>PROJECTS</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#engineering-principles"><strong>PRINCIPLES</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#build-standards"><strong>STANDARDS</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#design-system"><strong>DESIGN SYSTEM</strong></a>
+</p>
 
-### Built to Evolve.
-
-**Software development company focused on robust, modular and maintainable systems.**
-
-`PRECISE` · `MODULAR` · `CRAFTED` · `ENGINEERED` · `OPEN`
-
-</div>
+<p align="center">
+  Software development company focused on robust, modular and maintainable systems.
+</p>
 
 ---
 
@@ -26,6 +32,8 @@ ideas → model → build → test → ship → evolve
 
 ### TEXO
 
+<img src="./assets/texo.svg" alt="TEXO — Coming soon." width="100%" />
+
 **Coming soon.**
 
 ## Engineering principles
@@ -40,12 +48,14 @@ ideas → model → build → test → ship → evolve
 
 ## Build standards
 
-**Architecture** — separate domain decisions from framework details.  
-**Interfaces** — keep contracts explicit and versionable.  
-**Delivery** — automate repeatable work and keep deployments reversible.  
-**Quality** — test behavior at the correct boundary.  
-**Documentation** — record decisions that cannot be inferred from code.  
-**Security** — treat trust boundaries, secrets and dependencies as architecture concerns.
+```text
+architecture   → domain first
+interfaces     → explicit + versionable
+delivery       → automated + reversible
+quality        → behavior at the right boundary
+documentation  → record decisions, not noise
+security       → architecture concern, not an afterthought
+```
 
 ## Design system
 
@@ -53,8 +63,10 @@ ideas → model → build → test → ship → evolve
 
 ---
 
-<div align="center">
+<p align="center">
+  <code>PRECISE</code> · <code>MODULAR</code> · <code>CRAFTED</code> · <code>ENGINEERED</code> · <code>OPEN</code>
+</p>
 
-**TheOpificium** — Built to Evolve.
-
-</div>
+<p align="center">
+  <strong>TheOpificium</strong> — Built to Evolve.
+</p>
