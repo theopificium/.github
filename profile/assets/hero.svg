@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">TheOpificium — Built to Evolve.</title>
+  <desc id="desc">Monochrome technical hero for TheOpificium.</desc>
+  <rect width="1200" height="360" fill="#050505"/>
+  <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M100 0V360M200 0V360M300 0V360M400 0V360M500 0V360M600 0V360M700 0V360M800 0V360M900 0V360M1000 0V360M1100 0V360"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.18">
+    <circle cx="905" cy="180" r="118"/>
+    <circle cx="905" cy="180" r="78"/>
+    <path d="M787 180H1023M905 62V298"/>
+    <path d="M820 95L990 265M990 95L820 265" stroke-opacity="0.08"/>
+  </g>
+  <g transform="translate(846 121)" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="square">
+    <path d="M0 0H118M59 0V118"/>
+    <path d="M43 28C16 36 0 55 0 78C0 101 16 112 43 118"/>
+    <path d="M75 28C102 36 118 55 118 78C118 101 102 112 75 118"/>
+  </g>
+  <g fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="72" y="62" font-size="12" letter-spacing="8" opacity="0.68">THEOPIFICIUM / SOFTWARE ENGINEERING</text>
+    <text x="72" y="166" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">TheOpificium</text>
+    <text x="72" y="210" font-size="22" letter-spacing="3" opacity="0.78">BUILT TO EVOLVE.</text>
+    <text x="72" y="276" font-size="13" opacity="0.58">precise   modular   crafted   engineered   open</text>
+    <text x="1060" y="62" font-size="11" text-anchor="end" opacity="0.55">[ 01 / BRAND ]</text>
+    <text x="1060" y="318" font-size="11" text-anchor="end" opacity="0.55">BUILD → TEST → SHIP → EVOLVE</text>
+  </g>
+  <g stroke="#fff" stroke-width="2">
+    <path d="M72 235H112"/>
+    <path d="M1048 78H1090"/>
+  </g>
+</svg>
